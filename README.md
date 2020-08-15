@@ -7,6 +7,10 @@
 
 **[Lessons from an Undergraduate Course in Cybersecurity and Cyber Warfare - Is Our Children Securing?](https://livestream.com/accounts/9198012/events/8286155/videos/178448367/player?width=640&height=360&enableInfo=true&defaultDrawer=&autoPlay=false&mute=false)** Presented with Matt Weinberg. Circle of HOPE, Hotel Pennsylvania, New York, NY, July 21, 2018.
 
+**Why Git and GitHub? (on GitHub Panel GitHub: Real-World Tools, Engaged Students)**. ACM SIGCSE 2018, Baltimore, MD, February 22, 2018.
+
+[![Watch the video](https://img.youtube.com/vi/gzU8M6Yn9-s/hqdefault.jpg)](https://youtu.be/gzU8M6Yn9-s)
+
 **Panel: Breaking Into InfoSec (with Keith Hoodlet, Tracy Maleeff, and Justin Pagano)**. BSides Boston Security Conference, Harvard University Science Center, Cambridge, MA, April 15, 2017.
 
 [![Watch the video](https://img.youtube.com/vi/ChY6ynn7fN4/hqdefault.jpg)](https://youtu.be/ChY6ynn7fN4)
