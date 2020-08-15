@@ -47,5 +47,5 @@
 * ["Why Version Control is Required for Comp 20 at Tufts University" (GitHub)](https://github.com/blog/2343-why-version-control-is-required-for-comp-20-at-tufts-university)
 * ["Most Top Computer Science Programs Skip Cybersecurity" (IEEE)](http://theinstitute.ieee.org/career-and-education/education/most-top-computer-science-programs-skip-cybersecurity)
 * ["Congress puts terrorism and tech in the spotlight" (CNN)](http://money.cnn.com/2015/12/08/technology/encryption-congress-commission/)
-* "Demystifying Binary Static Analysis (Veracode)"(http://www.veracode.com/blog/2012/03/demystifying-binary-static-analysis/)
+* ["Demystifying Binary Static Analysis (Veracode)"](http://www.veracode.com/blog/2012/03/demystifying-binary-static-analysis/)
 * ["Old Hacking Tricks Work Too Easily in Attacks on HTML5, Security Expert Says" (VentureBeat)](http://venturebeat.com/2011/08/11/old-hacking-tricks-work-too-easily-in-attacks-on-html5-security-expert-says/)
